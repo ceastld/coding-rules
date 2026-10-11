@@ -1,0 +1,6 @@
+interface:
+  display_name: "产品持续迭代"
+  short_description: "按用户结果推进产品迭代，复用有效验证并从真实反馈中改进方法"
+  default_prompt: "使用 $product-iteration 按当前项目计划持续开发，先推进最有价值的可交付切片。"
+policy:
+  allow_implicit_invocation: true
